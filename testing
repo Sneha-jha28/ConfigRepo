@@ -3,6 +3,6 @@ testing 1,2,3
 plesae commit
 FROM tomcat
 
-COPY ./target/demo.war /usr/local/tomcat/webapps/demo.war
+COPY ./target/demo.war /usr/local/tomcat/sneha/demo.war
 
 EXPOSE 9090
